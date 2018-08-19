@@ -1,9 +1,39 @@
-# Portal de e-commerce: Thopaka 
-**Insertar logo aquí**
+# <span style="display:block;text-align:center"> E-commerce: Thopaka Arts & Crafts </span>
+<span style="display:block;text-align:center;">![lOGO](img/Logo3.jpg)</span>
 
 ## 1. Introducción
+Las empresas en la actualidad se encuentran en un constante proceso de evolución para lograr avanzar en la carrera tecnológica de digitalización que exige el mercado. Dadas las nuevas tendencias y herramientas de compra y venta en línea, tanto los antiguos como nuevos negocios, de empresarios y emprendedores particulares, deben sumergirse en esta ola de transformación que beneficia en ambos sentidos las técnicas mercantiles.
+
 ### 1.1. Análisis del contexto
+Una gran cantidad de pequeños negocios latinoamericanos han recurrido a plataformas en línea pre-existentes como:
+
+#### Redes Sociales:
+- Fanpages de Facebook
+- Cuentas de empresa de Instagram
+- Cuentas de Twitter, etc.
+
+#### Online Marketplaces:
+- Mercado Libre
+- Linio
+- Olx, etc.
+
+Para poder agilizar la compra y venta de sus productos, minimizando costos en publicidad, llegando más rápida y eficientemente al cliente final, generando sus propias tiendas online sin la necesidad de pasar por el registro burocrático en las instituciones de control de comercio de sus respectivos países y lo más importante: Darla una personalidad exclusiva a su marca, la cual puede interactuar en tiempo real con sus clientes frecuentes y potenciales a través de las funcionalidades que la plataforma le brinde como: Likes, comentarios, shares, publicaciones de pago por publicidad, generación de contenido exclusivo y edición del mismo. Todo esto a permitido surgir a una enorme cantidad de pequeñas y microcompañías para establecerce en el mercado de forma oportuna, incitando cada vez más el florecimiento de nuevos emprendimientos en distintos ámbitos de la industria.
+
+Uno de esos ámbitos bastante explotado y solicitado por los consumidores es el artístico, ya que creadores de todo tipo de productos, exponen sus invenciones en base a sus destrezas en estas mismas plataformas para ser vendidas a un público particular, del mismo modo, coleccionistas, subastadores, consignatarios y mercaderes de todo tipo de venta de arte usan estas alternativas en línea para estimular sus transacciones. 
+
 ### 1.2. Objetivos del proyecto
+Nosotras nos enfocaremos específicamente en el sector de artesanías y antiguedades, ya que transformaremos digitalmente a Thopaka, una micro-empresa peruana ubicada en el distrito de Barranco en la ciudad de Lima. Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antiguedades para ser ofrecidas al público. Como equipo nos propusimos una serie de objetivos que detallaremos a continuación:
+
+#### Objetivo General:
+Transformar los procesos de gestión comercial de Thopaka digitalmente, elaborando un proyecto web que le permita a la administración tener su propio sitio en internet, donde ser encontrados por sus clientes para la adquisición de los artículos que ofertan.
+
+#### Objetivos Específicos:
+- Crear una galería en el website que permita exponer los productos que Thopaka tiene en stock.
+- Estandarizar la exposición de la mercadería ofrecida en la galería.
+- Permitirle al cliente modificar esta galería agregando nuevos artículos a la venta y marcar los ya vendidos.
+- Implementar un sistema de pago digital para agilizar el proceso de venta.
+- Implementar opciones de interacción con clientes como comentarios y puntuaciones.
+
 
 ## 2. Problema e industria
 
@@ -26,9 +56,11 @@
 ## 5. Entrevistas
 
 ### 5.1. Entrevista con cliente
+La [entrevista al cliente](https://goo.gl/FdwXxH) se dio el 17 de agosto del año 2018 a las 16 horas en las instalaciones de su taller de fabricación y almacén de productos, ubicado en el distrito de Barranco de la ciudad de Lima. La clienta se llama Patricia y se hace llamar "Paty" por mayor comodidad, el encuentro fue programado con 4 días de anticipación y contó con la participación de los dos miembros del equipo creador de este proyecto, al mismo tiempo el formato de entrevista fue amigable para obtener la mayor cantidad de información durante la conversación y el resultado se almacenó en dos partes de grabaciones de audio de 30 minutos y 25 minutos respectivamente.
 
-#### 5.1.1. Preguntas planteadas
+![Paty](img/paty.jpg)
 
+#### 5.1.1. Guía de preguntas planteadas
 1. ¿Cuándo nació Thopaka? 
 2. ¿Qué es Thopaka? ¿cuál es su actividad como empresa? 
 3. ¿Cómo obtienes los productos para Thopaka?
@@ -57,8 +89,20 @@
 (Pain y gain points)
 
 ### 5.2. Entrevistas con usuarios
+Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja, de dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando, que es de artesanías y antiguedades. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado, este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio. El resultado se almacenó en cinco partes de grabaciones de audio de aproximadamente 3 minutos cada una.
 
-#### 5.2.1. Preguntas planteadas
+#### 5.2.1. Guía de preguntas planteadas
+1. ¿Cuál es su nombre? 
+2. ¿Cuál es su edad? 
+3. ¿En qué distrito vive?
+4. ¿Alguna vez ha comprado artesanías?
+5. ¿Qué tipo de artesanías a comprado? ¿Dónde? ¿Cuándo?
+6. ¿Alguna vez ha comprado antiguedades?
+7. ¿Qué tipo de antiguedades a comprado? ¿Dónde? ¿Cuándo?
+8. ¿Con qué frecuencia realiza estas compras?
+9. ¿Alguna vez ha comprado por internet?
+10. ¿Cómo fue esta experiencia?
+
 #### 5.2.2. Respuestas de los usuarios
 #### 5.2.3. Análisis de réplica de usuarios
 (Problemas identificados)

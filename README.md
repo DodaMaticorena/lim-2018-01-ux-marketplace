@@ -36,8 +36,12 @@ Transformar los procesos de gestión comercial de Thopaka digitalmente, elaboran
 
 
 ## 2. Problema e industria
+En el Perú, el sector artesanal y de comercio de antiguedades ha estado olvidado en los últimos años y sin embargo cuenta con un elevado potencial de crecimiento, existiendo mano de obra calificada no empleada, donde la inversión para una reactivación inicial no es necesariamente elevada y que fundamentalmente se concentra en la actividad de microcomercialización en nichos específicos del mercado.
+
+Sobre esta base, decidimos encontrar la manera de hacer más productivo a nuestro cliente ubicado dentro del sector artesanal. Para ello, analizamos las estrategias empleadas por Thopaka para penetrar en el negocio donde ahora se desenvuelve y que presenta potenciales oportunidades de crecimiento y desarrollo a largo plazo.
 
 ### 2.1. Definición del problema
+
 ### 2.2. Estudio de la industria
 ### 2.3. Aplicación al entorno
 
@@ -86,7 +90,10 @@ La [entrevista al cliente](https://goo.gl/FdwXxH) se dio el 17 de agosto del añ
 #### 5.1.3. Análisis de réplica del cliente
 (Problemas identificados)
 #### 5.1.4. Customer Journey Map
-(Pain y gain points)
+El [mapa de viaje del cliente](https://goo.gl/tVHZNQ) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado dada la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antiguedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [FanPage en Facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
+
+![CJM](img/map2.jpg)
+
 
 ### 5.2. Entrevistas con usuarios
 Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja, de dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado, este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio. El resultado se almacenó en cinco partes de grabaciones de audio de aproximadamente 3 minutos cada una.
@@ -146,7 +153,6 @@ Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 
 (Para que acaben comprando deberán hacer en la web)
 ### 10.8. Cómo el producto resuelve el problema
 
-
 ## 11. Entrega final 
 
 ### 11.1. Prototipo de alta fidelidad reloaded 
@@ -161,6 +167,21 @@ Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 
 (Common core: HTML, CSS y JS.)
 ### 12.3. Post en medium
 (Contando tu proceso de investigación)
+
+## 13. Conclusiones
+Con la aplicación de las estrategias digitales propuestas se logrará que Thopaka pertenezca al sector artesanal competitivo, rentable, y sostenible en un mercado globalizado; permitiendo que la actividad que realiza sea una fuente generadora de rentabilidad y liquidez para la reinversión que necesita.
+
+La propuesta planteada para la reformulación tecnológica comprende la integración de los factores claves, la identificación de los actores, sus roles, y la influencia de estos sobre los factores claves, así como la relación existente entre ellos. 
+
+Todos estos actores, en un trabajo coordinado e integrado dirigido hacia objetivos comunes, darán como resultado una mejor utilización de los recursos tanto físicos como virtuales, la solución de problemas con los usuarios, y un desarrollo sostenible de largo plazo en el sector artesanal y de comercio de antiguedades.
+
+La influencia de los actores sobre los factores claves nos permitió identificar las necesidades y capacidades de desarrollo de Thopaka, así como nos permitió definir a los siguientes factores como los principales: mantenimiento de una producción constante para la actualización de su galería de productos, promoción de la unidad productiva artesanal con la adecuada y temprana exposición al público, creación de diseños propios para la marca, comunicación de información sobre cada artículo personalizado en la misma página, mantenimiento constante de estándares de calidad y permanente innovación tecnológica.
+
+## 14. Equipo de trabajo
+* [María Elena Zúñiga](https://github.com/malenazp/lim-2018-01-ux-marketplace)
+* [Doda Maticorena](https://github.com/DodaMaticorena/lim-2018-01-ux-marketplace)
+
+
 
 
 

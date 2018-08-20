@@ -1,5 +1,5 @@
 # <span style="display:block;text-align:center"> E-commerce: Thopaka Arts & Crafts </span>
-<span style="display:block;text-align:center;">![lOGO](img/Logo3.jpg)</span>
+<span style="display:block;text-align:center;">![lOGO](img/thopaka-logo.jpeg)</span>
 
 ## 1. Introducción
 Las empresas en la actualidad se encuentran en un constante proceso de evolución para lograr avanzar en la carrera tecnológica de digitalización que exige el mercado. Dadas las nuevas tendencias y herramientas de compra y venta en línea, tanto los antiguos como nuevos negocios, de empresarios y emprendedores particulares, deben sumergirse en esta ola de transformación que beneficia en ambos sentidos las técnicas mercantiles.

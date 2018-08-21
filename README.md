@@ -57,7 +57,15 @@ Thopaka como micro-empresa cuenta con una serie de limitantes que impiden su exp
 Podemos verificar que dentro de las [redes sociales donde opera Thopaka](https://goo.gl/6VhJzK) cuenta con información bastante dispersa, combinando información de entretenimiento, noticias, posts de productos, entre otros en una misma vista y sin planificación temporal. Es por esto el proyecto E-commerce del negocio que planteamos, espera estandarizar la edición de sus contenidos, clasificarlos y plasmarlos debidamente a sus clientes, de modo que la relación vendedor-consumidor se vea beneficiada por la mejora en sus procesos de compra.
 
 ### 2.2. Estudio de la industria
+De acuerdo a estudios de [MINCETUR](https://www.mincetur.gob.pe/turismo/lineas-de-intervencion/desarrollo-de-la-artesania/), el Perú tiene una cultura tradicional en artesanía, reflejada en hermosas manifestaciones que se muestran a través de los productos pertenecientes a diversas líneas, como cerámica, textilería, peletería, imaginería, arpillería, mates burilados, retablos, etc. La artesanía peruana constituye un sector muy particular dentro de la pequeña o la microempresa, ya que en él existen subsectores productivos muy diferenciados, cada uno de
+ellos con una problemática específica. Sin embargo, el rubro artesanal ha sido tratado como un todo, sin pensar en todas las diferencias que se pueden presentar en él.
+
+El sector artesanal cuenta con una gran variedad de talleres dedicados a diferentes líneas de producción a lo largo del territorio nacional, pero no hay un estudio definitivo hecho por algún organismo –público o privado– que indique, con mayor precisión, la situación actual de este rubro. Es por esto que es muy difícil establecer la situación de mercado en la que se encuentra Thopaka.
+
 ### 2.3. Aplicación al entorno
+La artesanía en la forma de negocio que ofrece Thopaka, como actividad productiva en nuestro país, posee características definidas, desarrollándose en forma espontánea y empírica, con bajos montos de inversión, uso de tecnologías tradicionales, predominio de habilidad manual y basada en la capacidad creativa de Patricia como artesana. Esta situación negocio en cuestión en desventaja en relación con otras actividades económicas y plantea un problema de urgente solución.
+
+Repotenciar los procesos comerciales que posee actualmente, implicando demostrar que su producción es constante y entrega al público artículos de calidad, en el tiempo y momento justos.
 
 ## 3. Primera propuesta del proyecto
 
@@ -104,7 +112,7 @@ La [entrevista al cliente](https://goo.gl/FdwXxH) se dio el 17 de agosto del añ
 #### 5.1.3. Análisis de réplica del cliente
 (Problemas identificados)
 #### 5.1.4. Customer Journey Map
-El [mapa de viaje del cliente](https://goo.gl/tVHZNQ) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado dada la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antiguedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [FanPage en Facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
+El [mapa de viaje del cliente](https://goo.gl/tVHZNQ) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado dada la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antiguedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [fanpage en facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
 
 ![CJM](img/map2.jpg)
 
@@ -140,6 +148,21 @@ La principal razón por la que los usuarios no han comprado por internet anterio
 #### 5.2.4. User persona
 
 ## 6. Inventario de contenidos
+De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus usuarios en redes sociales y también considerando el análisis de respuesta del cliente y los usuarios, vemos necesario considerar el siguiente contenido para la elaboración del proyecto web:
+* Nombre de la empresa
+* Información de la marca
+* Información de contacto 
+* Vinculos a redes sociales del negocio
+* Registro de usuario
+* Ingreso de usuario
+* Recuperador de contraseña
+* Buscador de productos
+* Carrito de compras
+* Vista de productos principales
+* Precio del producto
+* Descripción del producto
+* Clasificación de producto por categorías
+* Galería de productos seleccionados y clasificados
 
 ### 6.1. Detalle del producto
 ### 6.2. Contenidos del producto
@@ -148,14 +171,14 @@ La principal razón por la que los usuarios no han comprado por internet anterio
 
 ### 7.1. Definición de la solución
 
-La solución se planteó tomando en cuenta los problemas de confianza del usuario. Por eso decidimos optar por un diseño minimalista, con los colores de Thopaka y que muestre los productos y precios desde un principio. Además, en el menú se puede encontrar una sección donde está la historia e información de Thopaka, donde pueda escribir un mensaje a la empresa.
+La solución se planteó tomando en cuenta los problemas de confianza del usuario y considerando todas las necesidades del negocio para su inmersión en el mundo digital. Por eso decidimos optar por un diseño sencillo y minimalista, manteniendo la gama de colores de Thopaka y mostrando productos principales y precios desde un principio. Además, en el menú se encuentra una sección donde está la historia e información del negocio requerida por el usuario, una opción donde se puede dar feedback y contactar directamente a la empresa sin hacer una compra directa y un buscador de producto específicos. Adicionalmente se implementará un selector de artículos por categoría pues recordemos que el negocio no sólo ofrece artesanías, sino también antiguedades y productos importados.
 
-Ideamos el siguiente sketch:
+Inicialmente se ideó el siguiente sketch:
 
 ![Sketch](img/sketch-thopaka.JPG)
 
 ### 7.2. Wireframe
-
+En base a ese mismo sketch se planteó el siguiente wireframe:
 ![Wireframe](img/wireframe3en1.png)
 
 ### 7.3. Testing del Wireframe
@@ -168,6 +191,7 @@ Ideamos el siguiente sketch:
 ### 8.2. Respuesta a las necesidades el usuario final
 
 ## 9. Árbol de contenido
+![Arbol](img/treecontent.jpg)
 
 ### 9.1. Estructura de contenidos
 ### 9.2. Navegación
@@ -212,6 +236,9 @@ La influencia de los actores sobre los factores claves nos permitió identificar
 ## 14. Equipo de trabajo
 * [María Elena Zúñiga](https://github.com/malenazp/lim-2018-01-ux-marketplace)
 * [Doda Maticorena](https://github.com/DodaMaticorena/lim-2018-01-ux-marketplace)
+
+Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1n2_dm4DLzYa76jhWtaKpWB8UJAvTbw0C).
+
 
 
 

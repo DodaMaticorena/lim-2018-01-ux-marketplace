@@ -1,5 +1,5 @@
-# <span style="display:block;text-align:center"> E-commerce: Thopaka Arts & Crafts </span>
-<span style="display:block;text-align:center; width:400px; height:400px">![lOGO](img/thopaka-logo.jpg)</span>
+# <p style="text-align: center;"> E-commerce: Thopaka Arts & Crafts </p>
+<span style="display:block;text-align:center">![LOGO](img/thopaka-logo.jpg)</span>
 
 ## 1. Introducción
 Las empresas en la actualidad se encuentran en un constante proceso de evolución para lograr avanzar en la carrera tecnológica de digitalización que exige el mercado. Dadas las nuevas tendencias y herramientas de compra y venta en línea, tanto los antiguos como nuevos negocios, de empresarios y emprendedores particulares, deben sumergirse en esta ola de transformación que beneficia en ambos sentidos las técnicas mercantiles.
@@ -22,7 +22,14 @@ Para poder agilizar la compra y venta de sus productos, minimizando costos en pu
 Uno de esos ámbitos bastante explotado y solicitado por los consumidores es el artístico, ya que creadores de todo tipo de productos, exponen sus invenciones en base a sus destrezas en estas mismas plataformas para ser vendidas a un público particular, del mismo modo, coleccionistas, subastadores, consignatarios y mercaderes de todo tipo de venta de arte usan estas alternativas en línea para estimular sus transacciones. 
 
 ### 1.2. Objetivos del proyecto
-Nosotras nos enfocaremos específicamente en el sector de artesanías y antiguedades, ya que transformaremos digitalmente a Thopaka, una micro-empresa peruana ubicada en el distrito de Barranco en la ciudad de Lima. Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antiguedades para ser ofrecidas al público. Como equipo nos propusimos una serie de objetivos que detallaremos a continuación:
+Nosotras nos enfocaremos específicamente en el sector de artesanías y antiguedades, ya que transformaremos digitalmente a Thopaka, una micro-empresa peruana ubicada en el distrito de Barranco en la ciudad de Lima. 
+
+#### ¿Qué es Thopaka?
+Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antiguedades para ser ofrecidas al público, tiene 9 años de funcionamiento administrados por su dueña, Patricia (cliente autorizó la utilización de este nombre), durante este período de tiempo ha diversificado los [productos ofrecidos a sus usuarios](https://goo.gl/fKjM27), haciéndolos cada vez más personalizados y únicos, dándole este detalle un potencial despegue de marca y fidelización de sus clientes con la marca.
+#### <p style="text-align: center;"> Taller de producción de artesanías de Thopaka </p>
+![Taller](img/taller.jpg)
+
+Como equipo nos propusimos una serie de objetivos que detallaremos a continuación:
 
 #### Objetivo General:
 Transformar los procesos de gestión comercial de Thopaka digitalmente, elaborando un proyecto web que le permita a la administración tener su propio sitio en internet, donde ser encontrados por sus clientes para la adquisición de los artículos que ofrecen.
@@ -38,9 +45,16 @@ Transformar los procesos de gestión comercial de Thopaka digitalmente, elaboran
 ## 2. Problema e industria
 En el Perú, el sector artesanal y de comercio de antiguedades ha estado olvidado en los últimos años y sin embargo cuenta con un elevado potencial de crecimiento, existiendo mano de obra calificada no empleada, donde la inversión para una reactivación inicial no es necesariamente elevada y que fundamentalmente se concentra en la actividad de microcomercialización en nichos específicos del mercado.
 
-Sobre esta base, decidimos encontrar la manera de hacer más productivo a nuestro cliente ubicado dentro del sector artesanal. Para ello, analizamos las estrategias empleadas por Thopaka para penetrar en el negocio donde ahora se desenvuelve y que presenta potenciales oportunidades de crecimiento y desarrollo a largo plazo.
+Sobre esta base, decidimos encontrar la manera de hacer más productivo a nuestro cliente ubicado dentro del sector artesanal. Para ello, analizamos las estrategias empleadas por Thopaka para penetrar en el negocio donde ahora se desenvuelve y que presenta potenciales oportunidades de crecimiento y desarrollo a largo plazo dentro del mundo digital.
 
 ### 2.1. Definición del problema
+Thopaka como micro-empresa cuenta con una serie de limitantes que impiden su expansión en el sector al cual se dedica y es principalmente el acceso a información de sus productos por parte de los usuarios para un proceso de compra más ágil, rápido y eficiente. Veamos por ejemplo el manejo de contenido que realizan sus actuales plataformas gitiales:
+#### Thopaka en la web:
+- [Fanpage](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) 
+- [Instagram](https://www.instagram.com/thopaka/)
+- [Twitter](https://twitter.com/Thopaka)
+
+Podemos verificar que dentro de las [redes sociales donde opera Thopaka](https://goo.gl/6VhJzK) cuenta con información bastante dispersa, combinando información de entretenimiento, noticias, posts de productos, entre otros en una misma vista y sin planificación temporal. Es por esto el proyecto E-commerce del negocio que planteamos, espera estandarizar la edición de sus contenidos, clasificarlos y plasmarlos debidamente a sus clientes, de modo que la relación vendedor-consumidor se vea beneficiada por la mejora en sus procesos de compra.
 
 ### 2.2. Estudio de la industria
 ### 2.3. Aplicación al entorno
@@ -93,7 +107,6 @@ La [entrevista al cliente](https://goo.gl/FdwXxH) se dio el 17 de agosto del añ
 El [mapa de viaje del cliente](https://goo.gl/tVHZNQ) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado dada la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antiguedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [FanPage en Facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
 
 ![CJM](img/map2.jpg)
-
 
 ### 5.2. Entrevistas con usuarios
 Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja, de dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado, este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio. El resultado se almacenó en cinco partes de grabaciones de audio de aproximadamente 3 minutos cada una.

@@ -122,9 +122,9 @@ Las principales razones por las que compran artesanías o antiguedades son por g
 
 La principal razón por la que los usuarios no han comprado por internet anteriormente es porque desconfían de ello. Tienen la preconcepción de que es complicado, de que puede haber problemas, que no llegue lo que compran o que no sea el artículo exacto o incluso que los estafen. Pero sí les gustaría hacerlo porque les resultaría un método más rápido, y además tienen amistades que lo han hecho antes y les ha ido bien.
 
-#### 5.2.4. Definición del público objetivo
+#### 5.2.3. Definición del público objetivo
 (Principales usuarios)
-#### 5.2.5. User persona
+#### 5.2.4. User persona
 
 ## 6. Inventario de contenidos
 
@@ -134,6 +134,13 @@ La principal razón por la que los usuarios no han comprado por internet anterio
 ## 7. Solución y prototyping
 
 ### 7.1. Definición de la solución
+
+La solución se planteó tomando en cuenta los problemas de confianza del usuario. Por eso decidimos optar por un diseño minimalista, con los colores de Thopaka y que muestre los productos y precios desde un principio. Además, en el menú se puede encontrar una sección donde está la historia e información de Thopaka, donde pueda escribir un mensaje a la empresa.
+
+Ideamos el siguiente sketch:
+
+![Sin titulo](img/sketch-thopaka.JPG)
+
 ### 7.2. Wireframe
 ### 7.3. Testing del Wireframe
 ### 7.4. Primer prototipo de alta fidelidad

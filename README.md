@@ -142,6 +142,9 @@ Ideamos el siguiente sketch:
 ![Sin titulo](img/sketch-thopaka.JPG)
 
 ### 7.2. Wireframe
+
+![Sin titulo](img/wireframe-1.1.png) ![Sin titulo](img/wireframe-2.1.png) ![Sin titulo](img/wireframe-3.1.png)
+
 ### 7.3. Testing del Wireframe
 ### 7.4. Primer prototipo de alta fidelidad
 ### 7.5. Testing del primer prototipo de alta

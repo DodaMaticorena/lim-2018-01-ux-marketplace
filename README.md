@@ -17,12 +17,12 @@ Una gran cantidad de pequeños negocios latinoamericanos han recurrido a platafo
 - Linio
 - Olx, etc.
 
-Para poder agilizar la compra y venta de sus productos, minimizando costos en publicidad, llegando más rápida y eficientemente al cliente final, generando sus propias tiendas online sin la necesidad de pasar por el registro burocrático en las instituciones de control de comercio de sus respectivos países y lo más importante: Darle una personalidad exclusiva a su marca, la cual puede interactuar en tiempo real con sus clientes frecuentes y potenciales a través de las funcionalidades que la plataforma le brinde como: Likes, comentarios, shares, publicaciones de pago por publicidad, generación de contenido exclusivo y edición del mismo. Todo esto ha permitido surgir a una enorme cantidad de pequeñas y microcompañías para establecerce en el mercado de forma oportuna, incitando cada vez más el florecimiento de nuevos emprendimientos en distintos ámbitos de la industria.
+Para poder agilizar la compra y venta de sus productos, minimizando costos en publicidad, llegando más rápida y eficientemente al cliente final, generando sus propias tiendas online sin la necesidad de pasar por el registro burocrático en las instituciones de control de comercio de sus respectivos países y lo más importante: darle una personalidad exclusiva a su marca, la cual puede interactuar en tiempo real con sus clientes frecuentes y potenciales a través de las funcionalidades que la plataforma le brinde como likes, comentarios, shares, publicaciones de pago por publicidad, generación de contenido exclusivo y edición del mismo. Todo esto ha permitido surgir a una enorme cantidad de pequeñas y microcompañías para establecerce en el mercado de forma oportuna, incitando cada vez más el florecimiento de nuevos emprendimientos en distintos ámbitos de la industria.
 
-Uno de esos ámbitos bastante explotado y solicitado por los consumidores es el artístico, ya que creadores de todo tipo de productos, exponen sus invenciones en base a sus destrezas en estas mismas plataformas para ser vendidas a un público particular, del mismo modo, coleccionistas, subastadores, consignatarios y mercaderes de todo tipo de venta de arte usan estas alternativas en línea para estimular sus transacciones. 
+Uno de esos ámbitos bastante explotado y solicitado por los consumidores es el artístico, ya que creadores de todo tipo de productos, exponen sus invenciones en base a sus destrezas en estas mismas plataformas para ser vendidas a un público particular. Del mismo modo, hay coleccionistas, subastadores, consignatarios y mercaderes de todo tipo de venta de arte, que usan estas alternativas en línea para estimular sus transacciones. 
 
 ### 1.2. Objetivos del proyecto
-Nosotras nos enfocaremos específicamente en el sector de artesanías y antiguedades, ya que transformaremos digitalmente a Thopaka, una micro-empresa peruana ubicada en el distrito de Barranco en la ciudad de Lima. Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antiguedades para ser ofrecidas al público. Como equipo nos propusimos una serie de objetivos que detallaremos a continuación:
+Nosotras nos enfocaremos específicamente en el sector de artesanías y antiguedades, ya que transformaremos digitalmente a Thopaka, una microempresa peruana ubicada en el distrito de Barranco en la ciudad de Lima. Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antiguedades para ser ofrecidas al público. Como equipo nos propusimos una serie de objetivos que detallaremos a continuación:
 
 #### Objetivo General:
 Transformar los procesos de gestión comercial de Thopaka digitalmente, elaborando un proyecto web que le permita a la administración tener su propio sitio en internet, donde ser encontrados por sus clientes para la adquisición de los artículos que ofrecen.
@@ -36,7 +36,7 @@ Transformar los procesos de gestión comercial de Thopaka digitalmente, elaboran
 
 
 ## 2. Problema e industria
-En el Perú, el sector artesanal y de comercio de antiguedades ha estado olvidado en los últimos años y sin embargo cuenta con un elevado potencial de crecimiento, existiendo mano de obra calificada no empleada, donde la inversión para una reactivación inicial no es necesariamente elevada y que fundamentalmente se concentra en la actividad de microcomercialización en nichos específicos del mercado.
+En el Perú, el sector artesanal y de comercio de antiguedades ha estado olvidado en los últimos años; sin embargo, cuenta con un elevado potencial de crecimiento. Existe mano de obra calificada no empleada, donde la inversión para una reactivación inicial no es necesariamente elevada y que fundamentalmente se concentra en la actividad de microcomercialización en nichos específicos del mercado.
 
 Sobre esta base, decidimos encontrar la manera de hacer más productivo a nuestro cliente ubicado dentro del sector artesanal. Para ello, analizamos las estrategias empleadas por Thopaka para penetrar en el negocio donde ahora se desenvuelve y que presenta potenciales oportunidades de crecimiento y desarrollo a largo plazo.
 
@@ -96,7 +96,7 @@ El [mapa de viaje del cliente](https://goo.gl/tVHZNQ) fue diseñado en base a la
 
 
 ### 5.2. Entrevistas con usuarios
-Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja, de dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado, este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio. El resultado se almacenó en cinco partes de grabaciones de audio de aproximadamente 3 minutos cada una.
+Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja. Se dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado. Este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio. El resultado se almacenó en cinco partes de grabaciones de audio de aproximadamente 3 minutos cada una.
 
 #### 5.2.1. Guía de preguntas planteadas
 1. ¿Cuál es su nombre? 
@@ -110,12 +110,21 @@ Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 
 9. ¿Alguna vez ha comprado por internet?
 10. ¿Cómo fue esta experiencia? ¿Qué? ¿Cómo? ¿Cuándo? ¿Dónde?
 
-#### 5.2.2. Respuestas de los usuarios
-#### 5.2.3. Análisis de réplica de usuarios
-(Problemas identificados)
-#### 5.2.4. Definición del público objetivo
+#### 5.2.2. Conclusiones de las entrevistas a usuarios
+
+Pudimos entrevistar a 4 mujeres y 1 hombre, que provienen de diversos distritos de Lima. Una de ellas tiene 20 años y los demás entrevistados tienen entre 29 y 40 años. Todos han comprado artesanías anteriormente. Algunos compraron en la ciudad de Cusco o en la selva cuando viajaron. 3 nunca han comprado antiguedades y 2 sí lo han hecho alguna vez. De los tres que no lo hicieron, 1 expresó que sí es posible que lo haga en un futuro.
+
+El hombre entrevistado compra artesanías una vez al mes o más dependiendo de la ocasión. La mujer de 20 años hizo su última compra en el 2014. Las demás entrevistadas compran entre dos veces al año y más regularmente. Una de ellas recibe invitaciones a exposiciones de artesanías y antiguedades y compra si le gusta algo.
+
+Las principales razones por las que compran artesanías o antiguedades son por gusto personal, para regalar a familiares y para decorar. Entre los productos que han adquirido se encuentran huacas, cabezas clavas pequeñas, artesanías de la selva, collares, aretes, ligas, vestimentas, chompas, llaveros, chullos, cuadros, pinturas renacentistas.
+
+3 de los entrevistados nunca han comprado por internet pero sí les gustaría hacerlo. Y de los 2 que sí han comprado, 1 expresó su temor inicial, pero la experiencia resultó ser muy buena.
+
+La principal razón por la que los usuarios no han comprado por internet anteriormente es porque desconfían de ello. Tienen la preconcepción de que es complicado, de que puede haber problemas, que no llegue lo que compran o que no sea el artículo exacto o incluso que los estafen. Pero sí les gustaría hacerlo porque les resultaría un método más rápido, y además tienen amistades que lo han hecho antes y les ha ido bien.
+
+#### 5.2.3. Definición del público objetivo
 (Principales usuarios)
-#### 5.2.5. User persona
+#### 5.2.4. User persona
 
 ## 6. Inventario de contenidos
 
@@ -125,6 +134,13 @@ Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron entre el 18 
 ## 7. Solución y prototyping
 
 ### 7.1. Definición de la solución
+
+La solución se planteó tomando en cuenta los problemas de confianza del usuario. Por eso decidimos optar por un diseño minimalista, con los colores de Thopaka y que muestre los productos y precios desde un principio. Además, en el menú se puede encontrar una sección donde está la historia e información de Thopaka, donde pueda escribir un mensaje a la empresa.
+
+Ideamos el siguiente sketch:
+
+![Sin titulo](img/sketch-thopaka.JPG)
+
 ### 7.2. Wireframe
 ### 7.3. Testing del Wireframe
 ### 7.4. Primer prototipo de alta fidelidad

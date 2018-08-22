@@ -144,8 +144,15 @@ Las principales razones por las que compran artesanías o antiguedades son por g
 La principal razón por la que los usuarios no han comprado por internet anteriormente es porque desconfían de ello. Tienen la preconcepción de que es complicado, de que puede haber problemas, que no llegue lo que compran o que no sea el artículo exacto o incluso que los estafen. Pero sí les gustaría hacerlo porque les resultaría un método más rápido, y además tienen amistades que lo han hecho antes y les ha ido bien.
 
 #### 5.2.3. Definición del público objetivo
-(Principales usuarios)
+Después de la entrevista con la cliente, observamos que, debido a la gran variedad de productos que ofrece Thopaka, el público objetivo es distinto dependiendo del tipo de producto. Para antiguedades, el público objetivo es hombres y mujeres profesionales de 40 años a más. Para chocolatería son personas mayores de 20 años. Y para manualidades y artesanía personalizada, el público objetivo es mujeres mayores de 28 años.
+
 #### 5.2.4. User persona
+
+Después de las entrevistas pudimos obtener un user persona:
+
+![UPMujer](img/mujer-user-persona.jpg)
+![UPHombre](img/hombre-user-persona.jpg)
+
 
 ## 6. Inventario de contenidos
 De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus usuarios en redes sociales y también considerando el análisis de respuesta del cliente y los usuarios, vemos necesario considerar el siguiente contenido para la elaboración del proyecto web:

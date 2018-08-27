@@ -197,8 +197,19 @@ Después de la actualización, y de un pequeño testing del wireframe, esto es l
 Si vemos la [segunda versión del wireframe](https://drive.google.com/open?id=1mt8aga-CGK3GmHL664kKvRh0wncnU23N), la diferencia con la última versión es la flecha hacia la izquierda en la parte inferior de la vista. En el testing que hice, los usuarios nunca usaron esa flecha, la ignoraron completamente. Por lo que me dieron a entender que no era necesaria implementarla.
 
 ### 7.4. Prototipo de alta fidelidad
+
+[Link al prototipo de alta fidelidad](https://xd.adobe.com/view/95146c5d-2587-4881-6ee8-9ec03cfb234e-e325/)
+
 ### 7.5. Testing del prototipo de alta fidelidad
 
+En el testing del prototipo obtuve las siguientes conclusiones:
+
+- Los usuarios lo encontraron bastante intuitivo de usar.
+- Les gustó la simplicidad y el color.
+- Una no entendió las flechas que se encuentran dentro de la imagen/foto del producto, pero por su respuesta y reacción, concluí que era debido a la foto que usé ya que es muy parecida a la primera, más que por confusión funcional. 
+- Como mencioné anteriormente, los usuarios no utilizaron la flecha inferior de la página en el wireframe, pero quise testearlo también en el prototipo de alta fidelidad para ver si había algún cambio en cuanto a su uso. Obtuve los mismos resultados, nadie la utilizó, así que la borré porque no es necesaria. 
+
+[Fotos del testing](https://drive.google.com/open?id=1lE44c0N5beIvuvRsee541C0yO9RagaaY)
 
 ## 8. Descrición de contenidos
 

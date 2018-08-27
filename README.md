@@ -187,9 +187,14 @@ Luego de analizar mejor la investigación e iterar, se realizaron nuevos sketche
 [Link a los demás sketches](https://drive.google.com/open?id=1ijNYLeKdzDORyoH9rOdUVkRzzMeEJxaA)
 
 ### 7.3. Wireframe
-En base a ese mismo sketch se planteó el siguiente wireframe:
+En base al sketch inicial se planteó el siguiente wireframe:
 ![Wireframe](img/wireframe3en1.png)
 
+Después de la actualización, y de un pequeño testing del wireframe, esto es lo que resultó de las primeras vistas:
+
+![Wireframev3](img/wireframe-v3.jpg)
+
+Si vemos la [segunda versión del wireframe](https://drive.google.com/open?id=1mt8aga-CGK3GmHL664kKvRh0wncnU23N), la diferencia con la última versión es la flecha hacia la izquierda en la parte inferior de la vista. En el testing que hice, los usuarios nunca usaron esa flecha, la ignoraron completamente. Por lo que me dieron a entender que no era necesaria implementarla.
 
 ### 7.4. Prototipo de alta fidelidad
 ### 7.5. Testing del prototipo de alta fidelidad

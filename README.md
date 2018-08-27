@@ -67,26 +67,20 @@ La artesanía en la forma de negocio que ofrece Thopaka, como actividad producti
 
 Repotenciar los procesos comerciales que posee actualmente, implicando demostrar que su producción es constante y entrega al público artículos de calidad, en el tiempo y momento justos.
 
-## 3. Primera propuesta del proyecto
+## 3. Plan presupuestal
 
-### 3.1. Definición del producto 
-(En base al contexto del negocio)
-### 3.3. Sketching inicial
+### 3.1. Alternativas de acción
+### 3.2. Acciones seleccionadas
+### 3.3. Sustento de elección
 
-## 4. Plan presupuestal
+## 4. Entrevistas
 
-### 4.1. Alternativas de acción
-### 4.2. Acciones seleccionadas
-### 4.3. Sustento de elección
-
-## 5. Entrevistas
-
-### 5.1. Entrevista con cliente
+### 4.1. Entrevista con cliente
 La [entrevista al cliente](https://goo.gl/FdwXxH) se dio el 17 de agosto del año 2018 a las 16 horas en las instalaciones de su taller de fabricación y almacén de productos, ubicado en el distrito de Barranco de la ciudad de Lima. La clienta se llama Patricia y se hace llamar "Paty" por mayor comodidad, el encuentro fue programado con 4 días de anticipación y contó con la participación de los dos miembros del equipo creador de este proyecto, al mismo tiempo, el formato de entrevista fue amigable para obtener la mayor cantidad de información durante la conversación y el resultado se almacenó en dos partes de grabaciones de audio de 30 minutos y 25 minutos respectivamente.
 
 ![Paty](img/paty.jpg)
 
-#### 5.1.1. Guía de preguntas planteadas
+#### 4.1.1. Guía de preguntas planteadas
 1. ¿Cuándo nació Thopaka? 
 2. ¿Qué es Thopaka? ¿cuál es su actividad como empresa? 
 3. ¿Cómo obtienes los productos para Thopaka?
@@ -108,18 +102,17 @@ La [entrevista al cliente](https://goo.gl/FdwXxH) se dio el 17 de agosto del añ
 19. ¿Te gustaría trabajar con tarjetas de débito o crédito en tu página?
 20. ¿Tienes alguna referencia sobre una tienda virtual que te gustaría sugerirnos?
 
-#### 5.1.2. Respuestas del cliente
-#### 5.1.3. Análisis de réplica del cliente
+#### 4.1.2. Conclusiones de entrevista con cliente
 (Problemas identificados)
-#### 5.1.4. Customer Journey Map
+#### 4.1.3. Customer Journey Map
 El [mapa de viaje del cliente](https://goo.gl/tVHZNQ) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado dada la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antiguedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [fanpage en facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
 
 ![CJM](img/map2.jpg)
 
-### 5.2. Entrevistas con usuarios
+### 4.2. Entrevistas con usuarios
 Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja. Se dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado. Este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio. El resultado se almacenó en cinco partes de grabaciones de audio de aproximadamente 3 minutos cada una.
 
-#### 5.2.1. Guía de preguntas planteadas
+#### 4.2.1. Guía de preguntas planteadas
 1. ¿Cuál es su nombre? 
 2. ¿Cuál es su edad? 
 3. ¿En qué distrito vive?
@@ -131,7 +124,7 @@ Las [entrevistas con los usuarios](https://goo.gl/3oSyuf) se dieron el 18 de ago
 9. ¿Alguna vez ha comprado por internet?
 10. ¿Cómo fue esta experiencia? ¿Qué? ¿Cómo? ¿Cuándo? ¿Dónde?
 
-#### 5.2.2. Conclusiones de las entrevistas a usuarios
+#### 4.2.2. Conclusiones de las entrevistas a usuarios
 
 Pudimos entrevistar a 4 mujeres y 1 hombre, que provienen de diversos distritos de Lima. Una de ellas tiene 20 años y los demás entrevistados tienen entre 29 y 40 años. Todos han comprado artesanías anteriormente. Algunos compraron en la ciudad de Cusco o en la selva cuando viajaron. 3 nunca han comprado antiguedades y 2 sí lo han hecho alguna vez. De los tres que no lo hicieron, 1 expresó que sí es posible que lo haga en un futuro.
 
@@ -143,10 +136,10 @@ Las principales razones por las que compran artesanías o antiguedades son por g
 
 La principal razón por la que los usuarios no han comprado por internet anteriormente es porque desconfían de ello. Tienen la preconcepción de que es complicado, de que puede haber problemas, que no llegue lo que compran o que no sea el artículo exacto o incluso que los estafen. Pero sí les gustaría hacerlo porque les resultaría un método más rápido, y además tienen amistades que lo han hecho antes y les ha ido bien.
 
-#### 5.2.3. Definición del público objetivo
+#### 4.2.3. Definición del público objetivo
 Después de la entrevista con la cliente, observamos que, debido a la gran variedad de productos que ofrece Thopaka, el público objetivo es distinto dependiendo del tipo de producto. Para antiguedades, el público objetivo es hombres y mujeres profesionales de 40 años a más. Y para manualidades y artesanía personalizada, el público objetivo es mujeres mayores de 28 años.
 
-#### 5.2.4. User persona
+#### 4.2.4. User persona
 
 Pudimos obtener las siguientes user personas:
 
@@ -154,12 +147,12 @@ Pudimos obtener las siguientes user personas:
 ![UPHombre](img/hombre-user-persona.jpg)
 
 
-## 6. Inventario de contenidos
+## 5. Inventario de contenidos
 De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus usuarios en redes sociales y también considerando el análisis de respuesta del cliente y los usuarios, vemos necesario considerar el siguiente contenido para la elaboración del proyecto web:
 * Nombre de la empresa
 * Información de la marca
 * Información de contacto 
-* Vinculos a redes sociales del negocio
+* Vínculos a redes sociales del negocio
 * Registro de usuario
 * Ingreso de usuario
 * Recuperador de contraseña
@@ -169,10 +162,11 @@ De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus
 * Precio del producto
 * Descripción del producto
 * Clasificación de producto por categorías
-* Galería de productos seleccionados y clasificados
+* Galería de productos seleccionados
 
-### 6.1. Detalle del producto
-### 6.2. Contenidos del producto
+## 6. Árbol de contenido
+![Arbol](img/treecontent.jpg)
+
 
 ## 7. Solución y prototyping
 
@@ -180,33 +174,37 @@ De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus
 
 La solución se planteó tomando en cuenta los problemas de confianza del usuario y considerando todas las necesidades del negocio para su inmersión en el mundo digital. Por eso decidimos optar por un diseño sencillo y minimalista, manteniendo la gama de colores de Thopaka y mostrando productos principales y precios desde un principio. Además, en el menú se encuentra una sección donde está la historia e información del negocio requerida por el usuario, una opción donde se puede dar feedback y contactar directamente a la empresa sin hacer una compra directa y un buscador de producto específicos. Adicionalmente se implementará un selector de artículos por categoría pues recordemos que el negocio no sólo ofrece artesanías, sino también antiguedades y productos importados.
 
-Inicialmente se ideó el siguiente sketch:
+### 7.2. Sketch
+
+Inicialmente se ideó el siguiente sketch para las primeras vistas:
 
 ![Sketch](img/sketch-thopaka.JPG)
 
-### 7.2. Wireframe
+Luego de analizar mejor la investigación e iterar, se realizaron nuevos sketches:
+
+![Sketch2](img/sketch1.png)
+
+[Link a los demás sketches](https://drive.google.com/open?id=1ijNYLeKdzDORyoH9rOdUVkRzzMeEJxaA)
+
+### 7.3. Wireframe
 En base a ese mismo sketch se planteó el siguiente wireframe:
 ![Wireframe](img/wireframe3en1.png)
 
-### 7.3. Testing del Wireframe
-### 7.4. Primer prototipo de alta fidelidad
-### 7.5. Testing del primer prototipo de alta
+
+### 7.4. Prototipo de alta fidelidad
+### 7.5. Testing del prototipo de alta fidelidad
+
 
 ## 8. Descrición de contenidos
 
 ### 8.1. Respuesta a objetivos del proyecto
 ### 8.2. Respuesta a las necesidades el usuario final
 
-## 9. Árbol de contenido
-![Arbol](img/treecontent.jpg)
-
-### 9.1. Estructura de contenidos
-### 9.2. Navegación
 
 ## 10. Definición del producto
 
 ### 10.1. Principales usuarios
-### 10.2. Objeivos del negocio respecto al producto
+### 10.2. Objetivos del negocio respecto al producto
 ### 10.3. Objetivos de los usuarios respecto al producto
 ### 10.4. Propuesta de valor
 ### 10.5. Contenido que el usuario quiere ver
@@ -216,20 +214,8 @@ En base a ese mismo sketch se planteó el siguiente wireframe:
 (Para que acaben comprando deberán hacer en la web)
 ### 10.8. Cómo el producto resuelve el problema
 
-## 11. Entrega final 
+### 11. Zeplin
 
-### 11.1. Prototipo de alta fidelidad reloaded 
-### 11.2. Prototipo interactivo 
-(Video-tutorial Loom)
-### 11.3. Zeplin
-### 11.4. Implementación en código
-
-## 12. Hacker Edition
-### 12.1. Documentación en Wix
-### 12.2. Flujo de propuesta en tecnología web
-(Common core: HTML, CSS y JS.)
-### 12.3. Post en medium
-(Contando tu proceso de investigación)
 
 ## 13. Conclusiones
 Con la aplicación de las estrategias digitales propuestas se logrará que Thopaka pertenezca al sector artesanal competitivo, rentable, y sostenible en un mercado globalizado; permitiendo que la actividad que realiza sea una fuente generadora de rentabilidad y liquidez para la reinversión que necesita.

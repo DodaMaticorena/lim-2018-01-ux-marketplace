@@ -194,7 +194,9 @@ Después de la actualización, y de un pequeño testing del wireframe, esto es l
 
 ![Wireframev3](img/wireframe-v3.jpg)
 
-Si vemos la [segunda versión del wireframe](https://drive.google.com/open?id=1mt8aga-CGK3GmHL664kKvRh0wncnU23N), la diferencia con la última versión es la flecha hacia la izquierda en la parte inferior de la vista. En el testing que hice, los usuarios nunca usaron esa flecha, la ignoraron completamente. Por lo que me dieron a entender que no era necesaria implementarla.
+[Ver más de este último wireframe](https://drive.google.com/open?id=1JcQK8ABYMmxa0D6M3kzWE7SM0xXzLAst)
+
+Si miramos la [segunda versión del wireframe](https://drive.google.com/open?id=1mt8aga-CGK3GmHL664kKvRh0wncnU23N), la diferencia con la última versión es la flecha hacia la izquierda en la parte inferior de la vista. En el testing que hice, los usuarios nunca usaron esa flecha, la ignoraron completamente. Por lo que me dieron a entender que no era necesaria implementarla.
 
 ### 7.4. Prototipo de alta fidelidad
 

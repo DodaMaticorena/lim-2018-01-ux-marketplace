@@ -169,20 +169,21 @@ De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus
 * Home
 * Nombre de la empresa
 * Buscador
-* Carrito de compras
+* Lista de productos seleccionados
 * Menú hamburguesa
 * Categorías de productos
 * Antigüedades
 * Artesanías
 * Contáctanos
 * Historia de la empresa
+* Foto del producto
 * Título del producto
 * Precio del producto
 * Descripción del producto
 * Historia del producto
 
-## 6. Árbol de contenido
-![Arbol](img/treecontent.jpg)
+## 6. Árbol de contenidos
+![Arbol](img/treecontent.JPG)
 
 
 ## 7. Solución y prototyping

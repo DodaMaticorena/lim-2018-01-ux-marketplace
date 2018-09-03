@@ -237,6 +237,7 @@ En el segundo testing del prototipo, capté a 5 personas entre los 28 y 55 años
 - Los usuarios respondieron bien en general al aplicativo pero como un medio que los conecta con la empresa para poder acudir personalmente.
 - A todos les gusta leer una pequeña historia del producto.
 - Los usuarios de mayor edad tuvieron dificultad en regresar a la página principal cuando estaban en otra vista. La principal razón fue porque no encontraban el botón usual para regresar de un dispositivo que utiliza sistema Android.
+- Algunos tuvieron problemas al clickear un botón.
 
 [Fotos y videos de testing](https://drive.google.com/open?id=1lE44c0N5beIvuvRsee541C0yO9RagaaY)
 
@@ -244,17 +245,37 @@ Por estas razones, decidí replantear mi solución y quitar el login y registro 
 
 ## 8. Definición del producto
 
-### 10.5. Contenido que el usuario quiere ver
-(Información que buscarían para convencerse de comprar, confiar en el negocio, encontrar lo que busca y comprarlo)
-### 10.6. Distribución y entrega de contenidos
-### 10.7. Flujo de usuarios
-(Para que acaben comprando deberán hacer en la web)
+Los principales usuarios del producto son personas profesionales o con negocio propio entre 28 y 55 años.
+
+### 8.1. Objetivos
+
+Thopaka tiene como objetivo principal dar a conocer y crear conciencia de la importancia de las antigüedades y el apoyo que necesitan los artesanos. También tiene como objetivo aumentar sus compras y hacerse conocida por su garantía y honestidad.
+
+El objetivo de los usuarios potenciales de Thopaka es encontrar un lugar al que puedan ir a observar, preguntar y comprar productos con garantía y que les guste.
+
+### 8.2. Propuesta de valor del sitio
+
+Lo que estoy proponiendo para Thopaka es que tenga un sitio web al que los usuarios puedan visitar y obtengan la confianza de que el producto es bueno, puedan reservar una posible compra, contactarse con el negocio, ver la información de la empresa para poder acudir a ella o incluso comunicarse para plantear un posible delivery, si el usuario lo requiere.
+
+### 8.3. Contenidos
+
+Los contenidos que los usuarios quieren ver son: varias fotografías del producto, el precio, la descripción del producto y también su historia. Asimismo, información general de la empresa, números de contacto y dirección del negocio para ir.
+
+Para que esos contenidos sean entregados adecuadamente al usuario, la distribución de ellos deben ser bastante simples e intuitivos. Es por eso que desde un principio se muestra una lista de productos, con su fotografía y su precio. Al ingresar a un producto en específico se muestran más detalles, como la historia del producto, y lo que el usuario puede hacer luego.
+
+### 8.4. Flujo de los usuarios
+
+El flujo que va a seguir el usuario en el sitio web es el de observar el producto, hacer click en el producto para ver más, al interesarse por el producto agregarlo al carrito para reservarlo o buscar la información de contacto de la empresa para contactarse con ella y/o acudir al negocio a realizar la compra.
+
+### 8.5. Resolución del problema
+
+El sitio web le ofrece al usuario una plataforma para poder ver los productos que tiene la empresa, así como sus precios, y luego pueda contactarse, ver la dirección del negocio, pactar una cita y acudir a la tienda para poder ver y comprar los productos. Asimismo, podría comunicarse para concertar el servicio de delivery. Con esta plataforma, el usuario puede ver si alguno de los productos que ofrece Thopaka le interesa.
 
 
-### 11. Zeplin
+### 9. Zeplin
 
 
-## 13. Conclusiones generales
+## 10. Conclusiones generales
 Con la aplicación de las estrategias digitales propuestas se logrará que Thopaka pertenezca al sector artesanal competitivo, rentable, y sostenible en un mercado globalizado; permitiendo que la actividad que realiza sea una fuente generadora de rentabilidad y liquidez para la reinversión que necesita.
 
 La propuesta planteada para la reformulación tecnológica comprende la integración de los factores claves, la identificación de los actores, sus roles, y la influencia de estos sobre los factores claves, así como la relación existente entre ellos. 

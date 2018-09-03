@@ -183,7 +183,7 @@ De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus
 * Historia del producto
 
 ## 6. Árbol de contenidos
-![Arbol](img/treecontent.JPG)
+![Treecontent](img/treecontent.JPG)
 
 
 ## 7. Solución y prototyping

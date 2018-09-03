@@ -190,7 +190,7 @@ De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus
 
 ### 7.1. Definición de la solución
 
-La solución se planteó tomando en cuenta los problemas de confianza del usuario y considerando todas las necesidades del negocio para su inmersión en el mundo digital. Por eso decidí optar por un diseño sencillo y minimalista, manteniendo la gama de colores de Thopaka y mostrando productos principales y precios desde un principio. Además, en el menú se encuentra una sección donde está la historia e información del negocio donde se puede contactar a la empresa para tener un trato más personal. Así también implementé un buscador.
+La solución se planteó tomando en cuenta los problemas de confianza del usuario y considerando todas las necesidades del negocio para su inmersión en el mundo digital. Por eso decidí optar por un diseño sencillo y minimalista, manteniendo la gama de colores de Thopaka y mostrando productos principales y precios desde un principio. Además, en el menú se encuentra una sección donde está la historia e información del negocio donde se puede contactar a la empresa para tener un trato más personal. Así también, se implementó un buscador para facilitarle al usuario encontrar el contenido que requiere. 
 
 ### 7.2. Sketch
 
@@ -222,38 +222,39 @@ Si miramos la [segunda versión del wireframe](https://drive.google.com/open?id=
 
 ### 7.5. Testing del prototipo de alta fidelidad
 
-En el testing del prototipo obtuve las siguientes conclusiones:
+En el primer testing del prototipo obtuve las siguientes conclusiones con dos usuarios de 25 y 26 años:
 
 - Los usuarios lo encontraron bastante intuitivo de usar.
 - Les gustó la simplicidad y el color.
 - Una no entendió las flechas que se encuentran dentro de la imagen/foto del producto, pero por su respuesta y reacción, concluí que era debido a la foto que usé ya que es muy parecida a la primera, más que por confusión funcional. 
 - Como mencioné anteriormente, los usuarios no utilizaron la flecha inferior de la página en el wireframe, pero quise testearlo también en el prototipo de alta fidelidad para ver si había algún cambio en cuanto a su uso. Obtuve los mismos resultados, nadie la utilizó, así que la borré porque no es necesaria. 
 
-[Fotos del testing](https://drive.google.com/open?id=1lE44c0N5beIvuvRsee541C0yO9RagaaY)
+En el segundo testing del prototipo, capté a 5 personas entre los 28 y 55 años, y con ellos saqué las siguientes conclusiones:
 
-## 8. Descrición de contenidos
+- Todos los usuarios estaban en contra o se mostraban reacios a tener que registrarse para realizar la compra o tener que iniciar sesión.
+- ALgunos tuvieron dificultad de completar la compra cuando el proceso llegaba a la parte de ingresar o registrarse.
+- La mayoría prefiere ir a la misma tienda a ver los productos porque son antigüedades y cosas que prefieren ver, tocar, conversar con la persona que los vende.
+- Los usuarios respondieron bien en general al aplicativo pero como un medio que los conecta con la empresa para poder acudir personalmente.
+- A todos les gusta leer una pequeña historia del producto.
+- Los usuarios de mayor edad tuvieron dificultad en regresar a la página principal cuando estaban en otra vista. La principal razón fue porque no encontraban el botón usual para regresar de un dispositivo que utiliza sistema Android.
 
-### 8.1. Respuesta a objetivos del proyecto
-### 8.2. Respuesta a las necesidades el usuario final
+[Fotos y videos de testing](https://drive.google.com/open?id=1lE44c0N5beIvuvRsee541C0yO9RagaaY)
 
+Por estas razones, decidí replantear mi solución y quitar el login y registro de usuarios. Así como también, convertir la página de Thopaka en un medio para ver los productos que tienen, poder reservar una compra y luego contactarse y ver la información de la empresa para poder acudir a ella o comunicarse para plantear un posible delivery, si el usuario lo requiere.
 
-## 10. Definición del producto
+## 8. Definición del producto
 
-### 10.1. Principales usuarios
-### 10.2. Objetivos del negocio respecto al producto
-### 10.3. Objetivos de los usuarios respecto al producto
-### 10.4. Propuesta de valor
 ### 10.5. Contenido que el usuario quiere ver
 (Información que buscarían para convencerse de comprar, confiar en el negocio, encontrar lo que busca y comprarlo)
 ### 10.6. Distribución y entrega de contenidos
 ### 10.7. Flujo de usuarios
 (Para que acaben comprando deberán hacer en la web)
-### 10.8. Cómo el producto resuelve el problema
+
 
 ### 11. Zeplin
 
 
-## 13. Conclusiones
+## 13. Conclusiones generales
 Con la aplicación de las estrategias digitales propuestas se logrará que Thopaka pertenezca al sector artesanal competitivo, rentable, y sostenible en un mercado globalizado; permitiendo que la actividad que realiza sea una fuente generadora de rentabilidad y liquidez para la reinversión que necesita.
 
 La propuesta planteada para la reformulación tecnológica comprende la integración de los factores claves, la identificación de los actores, sus roles, y la influencia de estos sobre los factores claves, así como la relación existente entre ellos. 

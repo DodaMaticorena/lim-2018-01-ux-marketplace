@@ -251,7 +251,8 @@ Los principales usuarios del producto son personas profesionales o con negocio p
 
 Thopaka tiene como objetivo principal dar a conocer y crear conciencia de la importancia de las antigüedades y el apoyo que necesitan los artesanos. También tiene como objetivo aumentar sus compras y hacerse conocida por su garantía y honestidad.
 
-El objetivo de los usuarios potenciales de Thopaka es encontrar un lugar al que puedan ir a observar, preguntar y comprar productos con garantía y que les guste.
+El objetivo de los usuarios potenciales de Thopaka es encontrar un sitio web donde vean los productos que les pueda interesar y que luego puedan contactar a a la empresa o pedir su información para poder acudir al lugar para que pueden observar, preguntar y comprar productos con garantía y que les guste.
+
 
 ### 8.2. Propuesta de valor del sitio
 

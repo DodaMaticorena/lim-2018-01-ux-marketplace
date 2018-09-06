@@ -275,21 +275,21 @@ El sitio web le ofrece al usuario una plataforma para poder ver los productos qu
 
 ### 9. Zeplin
 
+[Entra a mi proyecto en Zeplin...](https://zpl.io/aX4NJlM) Solo si te he invitado :(
 
-## 10. Conclusiones generales
-Con la aplicación de las estrategias digitales propuestas se logrará que Thopaka pertenezca al sector artesanal competitivo, rentable, y sostenible en un mercado globalizado; permitiendo que la actividad que realiza sea una fuente generadora de rentabilidad y liquidez para la reinversión que necesita.
 
-La propuesta planteada para la reformulación tecnológica comprende la integración de los factores claves, la identificación de los actores, sus roles, y la influencia de estos sobre los factores claves, así como la relación existente entre ellos. 
+## 10. Conclusión general
 
-Todos estos actores, en un trabajo coordinado e integrado dirigido hacia objetivos comunes, darán como resultado una mejor utilización de los recursos tanto físicos como virtuales, la solución de problemas con los usuarios, y un desarrollo sostenible de largo plazo en el sector artesanal y de comercio de antigüedades.
+La propuesta planteada para la reformulación tecnológica dará como resultado una mejor utilización de los recursos tanto físicos como virtuales, para lograr una mayor visibilidad de la empresa en el sector artesanal y de comercio de antigüedades, además de facilitar al usuario un canal para conocer y conectarse con Thopaka, cubriendo así sus necesidades.
 
-La influencia de los actores sobre los factores claves nos permitió identificar las necesidades y capacidades de desarrollo de Thopaka, así como nos permitió definir a los siguientes factores como los principales: mantenimiento de una producción constante para la actualización de su galería de productos, promoción de la unidad productiva artesanal con la adecuada y temprana exposición al público, creación de diseños propios para la marca, comunicación de información sobre cada artículo personalizado en la misma página, mantenimiento constante de estándares de calidad y permanente innovación tecnológica.
+Con la aplicación de las estrategias digitales propuestas se logrará que Thopaka sea una fuente generadora de rentabilidad y liquidez para la reinversión que necesita, ya que pertenecerá al mercado globalizado digital.
+
 
 <!-- ## 14. Equipo de trabajo
 * [María Elena Zúñiga](https://github.com/malenazp/lim-2018-01-ux-marketplace)
 * [Doda Maticorena](https://github.com/DodaMaticorena/lim-2018-01-ux-marketplace) -->
 
-Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
+* Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
 
 
 

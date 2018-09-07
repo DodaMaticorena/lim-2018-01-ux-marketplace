@@ -289,6 +289,10 @@ Con la aplicación de las estrategias digitales propuestas se logrará que Thopa
 * [María Elena Zúñiga](https://github.com/malenazp/lim-2018-01-ux-marketplace)
 * [Doda Maticorena](https://github.com/DodaMaticorena/lim-2018-01-ux-marketplace) -->
 
+## 11. Video del documento en Loom 
+
+[Link a la explicación del Readme]()
+
 * Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
 
 

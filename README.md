@@ -190,7 +190,7 @@ La solución se planteó tomando en cuenta los problemas de confianza del usuari
 
 Inicialmente se ideó el siguiente sketch para las primeras vistas:
 
-![Sketch](img/sketch-thopaka.jpg)
+![Sketch](img/sketch-thopaka.png)
 
 Luego de analizar mejor la investigación e iterar, se realizaron nuevos sketches:
 

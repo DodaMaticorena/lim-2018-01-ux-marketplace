@@ -17,7 +17,7 @@ Una gran cantidad de pequeños negocios latinoamericanos han recurrido a platafo
 - Linio
 - Olx, etc.
 
-Para poder agilizar la compra y venta de sus productos, minimizando costos en publicidad, llegando más rápida y eficientemente al cliente final, generando sus propias tiendas online sin la necesidad de pasar por el registro burocrático en las instituciones de control de comercio de sus respectivos países y lo más importante: darle una personalidad exclusiva a su marca, la cual puede interactuar en tiempo real con sus clientes frecuentes y potenciales a través de las funcionalidades que la plataforma le brinde como likes, comentarios, shares, publicaciones de pago por publicidad, generación de contenido exclusivo y edición del mismo. Todo esto ha permitido surgir a una enorme cantidad de pequeñas y microcompañías para establecerce en el mercado de forma oportuna, incitando cada vez más el florecimiento de nuevos emprendimientos en distintos ámbitos de la industria.
+Poder agilizar la compra y venta de sus productos, minimizando costos en publicidad, y aprovechando las demás facilidades que se pueden obtener con la presencia digital; todo esto ha permitido surgir a una enorme cantidad de pequeñas y microcompañías para establecerce en el mercado de forma oportuna, incitando cada vez más el florecimiento de nuevos emprendimientos en distintos ámbitos de la industria.
 
 Uno de esos ámbitos bastante explotado y solicitado por los consumidores es el artístico, ya que creadores de todo tipo de productos, exponen sus invenciones en base a sus destrezas en estas mismas plataformas para ser vendidas a un público particular. Del mismo modo, hay coleccionistas, subastadores, consignatarios y mercaderes de todo tipo de venta de arte, que usan estas alternativas en línea para estimular sus transacciones. 
 
@@ -29,21 +29,15 @@ Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías,
 #### <p style="text-align: center;"> Taller de producción de artesanías de Thopaka </p>
 ![Taller](img/taller.jpg)
 
-Como equipo nos propusimos una serie de objetivos que detallaremos a continuación:
-
 #### Objetivo General:
-Transformar los procesos de gestión comercial de Thopaka digitalmente, elaborando un proyecto web que le permita a la administración tener su propio sitio en internet, donde puedan ser encontrados por sus clientes para la adquisición de los artículos que ofrecen.
+
+Transformar los procesos de gestión comercial de Thopaka digitalmente, elaborando un proyecto web que le permita a la administración tener su propio sitio en internet, donde puedan ser encontrados por sus compradores potenciales para ver los productos que ofrecen y poder contactarse con la empresa.
 
 #### Objetivos Específicos:
+
 - Crear una galería en el website que permita exponer los productos que Thopaka tiene en stock.
-- Estandarizar la exposición de la mercadería ofrecida en la galería.
-- Implementar un sistema de pago digital para agilizar el proceso de venta.
-
-Y en una versión futura podría también:
-
-- Permitirle al cliente modificar esta galería agregando nuevos artículos a la venta y marcar los ya vendidos.
-- Implementar opciones de interacción con clientes como comentarios y puntuaciones.
-
+- Dar detalles de la mercadería ofrecida en la galería.
+- Facilitarle al usuario encontrar la información que necesita para contactarse con la empresa.
 
 ## 2. Problema e industria
 En el Perú, el sector artesanal y de comercio de antigüedades ha estado olvidado en los últimos años; sin embargo, cuenta con un elevado potencial de crecimiento. Existe mano de obra calificada no empleada, donde la inversión para una reactivación inicial no es necesariamente elevada y que fundamentalmente se concentra en la actividad de microcomercialización en nichos específicos del mercado.
@@ -60,15 +54,15 @@ Thopaka como microempresa cuenta con una serie de limitantes que impiden su expa
 Podemos verificar que dentro de las [redes sociales donde opera Thopaka](https://drive.google.com/open?id=1JBYCGaw1UCdpkyqX_CTT1Vs0MiMhXCN_) cuenta con información bastante dispersa, combinando información de entretenimiento, noticias, posts de productos, entre otros en una misma vista y sin planificación temporal. Es por esto que el proyecto E-commerce del negocio que planteamos, espera estandarizar la edición de sus contenidos, clasificarlos y plasmarlos debidamente a sus clientes, de modo que la relación vendedor-consumidor se vea beneficiada por la mejora en sus procesos de compra.
 
 ### 2.2. Estudio de la industria
-De acuerdo a estudios de [MINCETUR](https://www.mincetur.gob.pe/turismo/lineas-de-intervencion/desarrollo-de-la-artesania/), el Perú tiene una cultura tradicional en artesanía, reflejada en hermosas manifestaciones que se muestran a través de los productos pertenecientes a diversas líneas, como cerámica, textilería, peletería, imaginería, arpillería, mates burilados, retablos, etc. La artesanía peruana constituye un sector muy particular dentro de la pequeña o la microempresa, ya que en él existen subsectores productivos muy diferenciados, cada uno de
-ellos con una problemática específica. Sin embargo, el rubro artesanal ha sido tratado como un todo, sin pensar en todas las diferencias que se pueden presentar en él.
+De acuerdo a estudios de [MINCETUR](https://www.mincetur.gob.pe/turismo/lineas-de-intervencion/desarrollo-de-la-artesania/), el Perú tiene una cultura tradicional en artesanía, reflejada en hermosas manifestaciones que se muestran a través de los productos pertenecientes a diversas líneas, como cerámica, textilería, peletería, imaginería, arpillería, mates burilados, retablos, etc. La artesanía peruana constituye un sector muy particular dentro de la pequeña o la microempresa, ya que en él existen subsectores productivos muy diferenciados, cada uno de ellos con una problemática específica. Sin embargo, el rubro artesanal ha sido tratado como un todo, sin pensar en todas las diferencias que se pueden presentar en él.
 
 El sector artesanal cuenta con una gran variedad de talleres dedicados a diferentes líneas de producción a lo largo del territorio nacional, pero no hay un estudio definitivo hecho por algún organismo –público o privado– que indique, con mayor precisión, la situación actual de este rubro. Es por esto que es muy difícil establecer la situación de mercado en la que se encuentra Thopaka.
 
 ### 2.3. Aplicación al entorno
-La artesanía en la forma de negocio que ofrece Thopaka, como actividad productiva en nuestro país, posee características definidas, desarrollándose en forma espontánea y empírica, con bajos montos de inversión, uso de tecnologías tradicionales, predominio de habilidad manual y basada en la capacidad creativa de Patricia como artesana. Esta situación negocio en cuestión en desventaja en relación con otras actividades económicas y plantea un problema de urgente solución.
 
-Repotenciar los procesos comerciales que posee actualmente, implicando demostrar que su producción es constante y entrega al público artículos de calidad, en el tiempo y momento justos.
+La artesanía en la forma de negocio que ofrece Thopaka, como actividad productiva en nuestro país, posee características definidas, desarrollándose en forma espontánea y empírica, con bajos montos de inversión, uso de tecnologías tradicionales, predominio de habilidad manual y basada en la capacidad creativa de Patricia como artesana. Esta situación de negocio en cuestión en desventaja en relación con otras actividades económicas y plantea un problema de urgente solución.
+
+Repotenciar los procesos comerciales que posee actualmente, implicando demostrar que su producción es constante y entrega al público artículos de calidad.
 
 ## 3. Plan presupuestal
 
@@ -122,12 +116,12 @@ Lo más importante para Thopaka es la satisfacción de sus clientes.
 
 
 #### 4.1.3. Customer Journey Map
-El [mapa de viaje del cliente (Customer Journey Map)](https://drive.google.com/file/d/13FOl_KDIWDFCl5Vc2qp0UY1caXBSsjKU) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado dada la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antigüedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [fanpage en facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
+El [mapa de viaje del cliente (Customer Journey Map)](https://drive.google.com/file/d/13FOl_KDIWDFCl5Vc2qp0UY1caXBSsjKU) fue diseñado en base a las experiencias de los usuarios narradas por el cliente, dado que obtener información fidedigna de clientes reales es un proceso complicado por la naturaleza del negocio, en la cual sus usuarios frecuentes concurren a comprar en ferias de artesanías y antigüedades donde Thopaka participa, es por este motivo que se hizo el análisis en base a la atención que nuestra cliente ha realizado a clientes contactados desde su [fanpage en facebook](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) donde le hicieron una cotización y concretaron una venta a contra-entrega:
 
 ![CJM](img/map2.jpg)
 
 ### 4.2. Entrevistas con usuarios
-Las [entrevistas con los usuarios](https://drive.google.com/drive/folders/1-fzbEuVjN6tGWHYnVgsfTEN1DI3mb-RR) se dieron el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja. Se dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Los entrevistados son clientes no conocidos nuestros, pero concurrentes al local mencionado. Este proceso contó con la participación de los dos miembros del equipo creador de este proyecto, se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio.
+Las [entrevistas con los usuarios](https://drive.google.com/drive/folders/1-fzbEuVjN6tGWHYnVgsfTEN1DI3mb-RR) se dieron el 18 de agosto del año 2018 entre las 13 y las 16 horas en el distrito de San Borja. Se dio dentro de las instalaciones de un local comercial que vende diversos tipos de artículos que incluyen el sector al cual nos estamos avocando. Se pidió autorización previa a los entrevistados para ser grabados en audio y se les informó que la entrevista no sería muy extensa para su mayor predisposición a ayudar en este estudio.
 
 #### 4.2.1. Guía de preguntas planteadas
 1. ¿Cuál es su nombre? 
@@ -169,7 +163,7 @@ De acuerdo a las actuales posibilidades de interacción que Thopaka ofrece a sus
 * Home
 * Nombre de la empresa
 * Buscador
-* Lista de productos seleccionados
+* Carrito de compras
 * Menú hamburguesa
 * Categorías de productos
 * Antigüedades
@@ -273,7 +267,7 @@ El flujo que va a seguir el usuario en el sitio web es el de observar el product
 El sitio web le ofrece al usuario una plataforma para poder ver los productos que tiene la empresa, así como sus precios, y luego pueda contactarse, ver la dirección del negocio, pactar una cita y acudir a la tienda para poder ver y comprar los productos. Asimismo, podría comunicarse para concertar el servicio de delivery. Con esta plataforma, el usuario puede ver si alguno de los productos que ofrece Thopaka le interesa.
 
 
-### 9. Zeplin
+## 9. Zeplin
 
 [Entra a mi proyecto en Zeplin...](https://zpl.io/aX4NJlM) Solo si te he invitado :(
 

@@ -1,3 +1,7 @@
+body {
+  background-color: #FCFCFC;
+}
+
 .navbar {
   width: auto;
   height: 59px;
@@ -9,7 +13,7 @@
 .logo {
   width: 118px;
   height: 31px;
-  font-family: Candara;
+  font-family: 'Candara';
   font-size: 25px;
   font-weight: bold;
   font-style: normal;
@@ -20,3 +24,21 @@
   color: #edca01;
 }
 
+.reserved-in-car {
+  height: 26px;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.39;
+  letter-spacing: normal;
+  text-align: center;
+  color: #090909;
+}
+
+.metal-dish {
+  width: 50%;
+  height: 440px;
+  text-align: center;
+}

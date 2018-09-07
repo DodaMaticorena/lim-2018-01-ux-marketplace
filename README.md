@@ -285,7 +285,7 @@ Con la aplicación de las estrategias digitales propuestas se logrará que Thopa
 
 ## 11. Video del documento en Loom 
 
-[Link a la explicación del Readme]()
+[Link a la explicación del Readme](https://www.useloom.com/share/52eb79fe8c424141b765d632a561c264)
 
 * Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
 

@@ -45,7 +45,7 @@ body {
   margin-bottom: 2px;
 }
 
-.product-img {
+.disc-img {
   margin-top: 15px;
   width: 90%;
   margin-left: 28px;
@@ -168,4 +168,48 @@ body {
 .thopaka-name {
   font-size: 15px;
   color: #191919;
+}
+
+.sidenav,
+.mobile-nav,
+.sidenav-trigger {
+  background-color: #191919;
+  font-family: 'Acuta';
+  color: #f2f1f1;
+}
+
+@media (max-width: 575px) {
+  .reserved-in-car {
+    width: 100%;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: -10px;
+  }
+  .social-net {
+    display: none;
+  }
+  .social-visit {
+    font-size: 15px;
+  }
+  .social-logo {
+    width: 30px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: -2px;
+  }
+  .thopaka-name {
+    font-size: 13px;
+  }
+  .plate-name,
+  .disc-name,
+  .price {
+    font-size: 15px;
+    margin-left: 3px !important;
+  }
+  .disc-img {
+    margin-left: 14px;
+  }
+  .btn-see-more {
+    margin-top: 10px;
+  }
 }

@@ -6,3 +6,11 @@ $(document).ready(function(){
     outDuration: 400,
   });
 })
+
+
+$(document).ready(function(){
+  $('.sidenav').sidenav({
+    closeOnClick: true,
+    edge: 'right',
+  });
+});

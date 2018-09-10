@@ -1,4 +1,4 @@
-#E-commerce: Thopaka Arts & Crafts 
+# E-commerce: Thopaka Arts & Crafts 
 
 ![LOGO](img/thopaka-logo.jpg)
 
@@ -27,7 +27,9 @@ Nosotras nos enfocaremos específicamente en el sector de artesanías y antigüe
 
 #### ¿Qué es Thopaka?
 Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antigüedades para ser ofrecidas al público. Han pasado 11 años desde que se fundó y aunque no han sido continuos, Thopaka, administrada por su dueña, Patricia (cliente autorizó la utilización de este nombre), sigue en pie. Durante este período de tiempo ha diversificado los [productos ofrecidos a sus usuarios](https://drive.google.com/open?id=151mUoaa_cVmiVM84jUFhfrW1_xxp_-_m), haciéndolos cada vez más personalizados y únicos, dándole este detalle un potencial despegue de marca y fidelización de sus clientes con la marca.
+
 #### Taller de producción de artesanías de Thopaka
+
 ![Taller](img/taller.jpg)
 
 #### Objetivo General:

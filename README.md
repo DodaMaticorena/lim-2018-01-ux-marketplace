@@ -291,8 +291,13 @@ Con la aplicación de las estrategias digitales propuestas se logrará que Thopa
 
 [Link a la explicación del Readme](https://www.useloom.com/share/52eb79fe8c424141b765d632a561c264)
 
-- Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
+Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
 
+## 12. Vistas Html
+
+- [Primera vista](https://dodamaticorena.github.io/lim-2018-01-ux-marketplace/src/index.html)
+
+- [Segunda vista](https://dodamaticorena.github.io/lim-2018-01-ux-marketplace/src/index2.html)
 
 
 

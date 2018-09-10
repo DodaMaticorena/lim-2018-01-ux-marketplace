@@ -1,5 +1,6 @@
-# <p style="text-align: center;"> E-commerce: Thopaka Arts & Crafts </p>
-<span style="display:block;text-align:center">![LOGO](img/thopaka-logo.jpg)</span>
+#E-commerce: Thopaka Arts & Crafts 
+
+![LOGO](img/thopaka-logo.jpg)
 
 ## 1. Introducción
 Las empresas en la actualidad se encuentran en un constante proceso de evolución para lograr avanzar en la carrera tecnológica de digitalización que exige el mercado. Dadas las nuevas tendencias y herramientas de compra y venta en línea, tanto los antiguos como nuevos negocios de empresarios y emprendedores particulares, deben sumergirse en esta ola de transformación que beneficia en ambos sentidos las técnicas mercantiles.
@@ -26,7 +27,7 @@ Nosotras nos enfocaremos específicamente en el sector de artesanías y antigüe
 
 #### ¿Qué es Thopaka?
 Thopaka es un pequeño negocio dedicado a la producción y venta de artesanías, así como también la compra local y extranjera de antigüedades para ser ofrecidas al público. Han pasado 11 años desde que se fundó y aunque no han sido continuos, Thopaka, administrada por su dueña, Patricia (cliente autorizó la utilización de este nombre), sigue en pie. Durante este período de tiempo ha diversificado los [productos ofrecidos a sus usuarios](https://drive.google.com/open?id=151mUoaa_cVmiVM84jUFhfrW1_xxp_-_m), haciéndolos cada vez más personalizados y únicos, dándole este detalle un potencial despegue de marca y fidelización de sus clientes con la marca.
-#### <p style="text-align: center;"> Taller de producción de artesanías de Thopaka </p>
+#### Taller de producción de artesanías de Thopaka
 ![Taller](img/taller.jpg)
 
 #### Objetivo General:
@@ -46,6 +47,7 @@ Sobre esta base, decidimos encontrar la manera de hacer más productivo a nuestr
 
 ### 2.1. Definición del problema
 Thopaka como microempresa cuenta con una serie de limitantes que impiden su expansión en el sector al cual se dedica. Y esas son principalmente el acceso a información de sus productos por parte de los usuarios para un proceso de compra más ágil, rápido y eficiente. Veamos por ejemplo el manejo de contenido que realizan sus actuales plataformas gitiales:
+
 #### Thopaka en la web:
 - [Fanpage](https://www.facebook.com/THOPAKA.Curiosidadesdealemaniadelperuydelmundo/) 
 - [Instagram](https://www.instagram.com/thopaka/)
@@ -287,7 +289,7 @@ Con la aplicación de las estrategias digitales propuestas se logrará que Thopa
 
 [Link a la explicación del Readme](https://www.useloom.com/share/52eb79fe8c424141b765d632a561c264)
 
-* Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
+- Visualiza todos los archivos del proyecto [aquí](https://drive.google.com/open?id=1y33trGkV-iU1jCG9kB__BxxHjcjWD0AY).
 
 
 

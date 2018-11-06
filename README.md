@@ -216,7 +216,7 @@ Si miramos la [segunda versión del wireframe](https://drive.google.com/open?id=
 
 ### 7.4. Prototipo de alta fidelidad
 
-[Link al prototipo de alta fidelidad](https://xd.adobe.com/view/95146c5d-2587-4881-6ee8-9ec03cfb234e-e325/)
+[Link al prototipo de alta fidelidad](https://xd.adobe.com/view/95146c5d-2587-4881-6ee8-9ec03cfb234e-e325/?fullscreen)
 
 ### 7.5. Testing del prototipo de alta fidelidad
 
